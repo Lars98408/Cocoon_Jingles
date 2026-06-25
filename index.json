@@ -9,5 +9,9 @@
       "game": "Alfred Chicken",
       "file": "jingles/NES/Alfred_Chicken_-_Title_Screen.mp3"
     }
+    {
+      "game": "Battletoads",
+      "file": "jingles/NES/Battletoads_-_Title.mp3"
+    }
   ]
 }
