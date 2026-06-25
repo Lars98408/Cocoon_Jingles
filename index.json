@@ -80,6 +80,102 @@
     {
       "game": "Dr.Mario",
       "file": "jingles/NES/Dr._Mario_-_Fever.mp3"
+    },
+    {
+      "game": "Duck Tales 2",
+      "file": "jingles/NES/Duck_Tales_2_-_Title.mp3"
+    },
+    {
+      "game": "Duck Tales",
+      "file": "jingles/NES/DuckTales_-_Title.mp3"
+    },
+    {
+      "game": "Fester's Quest",
+      "file": "jingles/NES/Fester's_Quest_-_Title_Screen_Ending_[The_Addams_Family_Theme].mp3"
+    },
+    {
+      "game": "FINAL FANTASY I",
+      "file": "jingles/NES/FINAL_FANTASY_I_-_プレリュード_(SFC_Style_mix_feat.FF6).mp3"
+    },
+    {
+      "game": "Kirby's Adventure",
+      "file": "jingles/NES/Kirby's_Adventure_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man",
+      "file": "jingles/NES/Mega_Man_1_-_Cut_Man.mp3"
+    },
+    {
+      "game": "Mega Man 1",
+      "file": "jingles/NES/Mega_Man_1_-_Cut_Man.mp3"
+    },
+    {
+      "game": "Mega Man 2",
+      "file": "jingles/NES/Mega_Man_2_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man II",
+      "file": "jingles/NES/Mega_Man_2_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man 3",
+      "file": "jingles/NES/Mega_Man_3_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man III",
+      "file": "jingles/NES/Mega_Man_3_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man 4",
+      "file": "jingles/NES/Mega_Man_4_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man IV",
+      "file": "jingles/NES/Mega_Man_4_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man 5",
+      "file": "jingles/NES/Mega_Man_5_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man V",
+      "file": "jingles/NES/Mega_Man_5_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man 6",
+      "file": "jingles/NES/Mega_Man_6_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Mega Man VI",
+      "file": "jingles/NES/Mega_Man_6_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Metroid",
+      "file": "jingles/NES/Metroid_-_Brinstar.mp3"
+    },
+    {
+      "game": "Ms. Pac-Man",
+      "file": "jingles/NES/Ms._Pac-Man_-_Ready!.mp3"
+    },
+    {
+      "game": "Ninja Gaiden",
+      "file": "jingles/NES/Ninja_Gaiden_-_The_Dragon_Ninja.mp3"
+    },
+    {
+      "game": "Ninja Gaiden II The Dark Sword of Chaos",
+      "file": "jingles/NES/Ninja_Gaiden_II_The_Dark_Sword_of_Chaos_-_Overdrive.mp3"
+    },
+    {
+      "game": "Ninja Gaiden III The Ancient Ship of Doom",
+      "file": "jingles/NES/Ninja_Gaiden_III_The_Ancient_Ship_of_Doom_-_LABORATORY_~_Stage_1-1_&_5-1.mp3"
+    },
+    {
+      "game": "Punch-Out!!",
+      "file": "jingles/NES/Punch-Out!!_-_Match_BGM.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
     }
   ]
 }
