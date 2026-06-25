@@ -310,11 +310,11 @@
       "file": "jingles/snes/Donkey_Kong_Country_-_Bonus_Room_Blitz.mp3"
     },
     {
-      "game": "Donkey Kong Country 2 Diddy's Kong Quest",
+      "game": "Donkey Kong Country 2: Diddy's Kong Quest",
       "file": "jingles/snes/Donkey_Kong_Country_2_Diddy's_Kong_Quest_-_K._Rool_Returns.mp3"
     },
     {
-      "game": "Donkey Kong Country 3 Dixie Kong's Double Trouble!",
+      "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
       "file": "jingles/snes/Donkey_Kong_Country_3_Dixie_Kong's_Double_Trouble!_-_Crazy_Calypso.mp3"
     },
     {
@@ -598,11 +598,11 @@
       "file": "jingles/snes/Zombies_Ate_My_Neighbors_-_Zombie_Panic.mp3"
     },
     {
-      "game": "",
+      "game": "Zoop",
       "file": "jingles/snes/Zoop_-_Main_Theme.mp3"
     },
     {
-      "game": "Zoop",
+      "game": "",
       "file": "jingles/snes/.mp3"
     }
   ]
