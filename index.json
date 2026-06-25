@@ -1,5 +1,5 @@
 {
-  "name": "NES",
+  "name": "Lars98408's Jingle Jangles",
   "entries": [
     {
       "game": "Air Fortress",
@@ -172,6 +172,98 @@
     {
       "game": "Punch-Out!!",
       "file": "jingles/NES/Punch-Out!!_-_Match_BGM.mp3"
+    },
+    {
+      "game": "Q-bert",
+      "file": "jingles/NES/Q-bert_-_02.mp3"
+    },
+    {
+      "game": "Sky Kid",
+      "file": "jingles/NES/Sky_Kid_-_Start_Music_~_BGM_Intro_~_BGM.mp3"
+    },
+    {
+      "game": "Super Mario Bros.",
+      "file": "jingles/NES/Super_Mario_Bros._-_Ground_Theme.mp3"
+    },
+    {
+      "game": "Super Mario Bros. 2",
+      "file": "jingles/NES/Super_Mario_Bros._2_-_Ground_BGM.mp3"
+    },
+    {
+      "game": "Super Mario Bros. 3",
+      "file": "jingles/NES/Super_Mario_Bros._3_-_World_1_Map.mp3"
+    },
+    {
+      "game": "Super Pitfall",
+      "file": "jingles/NES/Super_Pitfall_-_Level_1.mp3"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles",
+      "file": "jingles/NES/TEENAGE_MUTANT_NINJA_TURTLES_-_Level_Theme_1.mp3"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles II THE ARCADE GAME",
+      "file": "jingles/NES/TEENAGE_MUTANT_NINJA_TURTLES_II_THE_ARCADE_GAME_-_Opening.mp3"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles III The Manhattan Project",
+      "file": "jingles/NES/Teenage_Mutant_Ninja_Turtles_III_The_Manhattan_Project_-_Character_Select.mp3"
+    },
+    {
+      "game": "Tetris",
+      "file": "jingles/NES/Tetris_-_MUSIC-1.mp3"
+    },
+    {
+      "game": "Tetris 2",
+      "file": "jingles/NES/Tetris_2_-_Title_Screen.mp3"
+    },
+    {
+      "game": "The Legend of Zelda",
+      "file": "jingles/NES/The_Legend_of_Zelda_-_Overworld_of_Hyrule.mp3"
+    },
+    {
+      "game": "Tiny Toon Adventures",
+      "file": "jingles/NES/Tiny_Toon_Adventures_-_Opening_(Theme_Song).mp3"
+    },
+    {
+      "game": "Tiny Toon Adventures 2 Trouble in Wackyland",
+      "file": "jingles/NES/Tiny_Toon_Adventures_2_Trouble_in_Wackyland_-_Intro.mp3"
+    },
+    {
+      "game": "Wario's Woods",
+      "file": "jingles/NES/Wario's_Woods_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Yoshi's Cookie",
+      "file": "jingles/NES/Yoshi's_Cookie_-_Title_Theme.mp3"
+    },
+    {
+      "game": "Zelda II The Adventure of Link",
+      "file": "jingles/NES/Zelda_II_The_Adventure_of_Link_-_Overworld.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
+    },
+    {
+      "game": "",
+      "file": "jingles/NES/.mp3"
     },
     {
       "game": "",
