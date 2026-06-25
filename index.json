@@ -243,135 +243,131 @@
     },
     {
       "game": "AAAHH!!! Real Monsters",
-      "file": "jingles/snes/AAAHH!!!_Real_Monsters_-_Title.mp3"
+      "file": "jingles/snes/AAAHH!!!_Real_Monsters.mp3"
     },
     {
       "game": "Aladdin",
-      "file": "jingles/snes/Aladdin_-_''Salaam_and_Good_Evening''.mp3"
+      "file": "jingles/snes/SNES_laddin.mp3"
     },
     {
       "game": "An American Tail Fievel Goes West",
-      "file": "jingles/snes/An_American_Tail_Fievel_Goes_West_-_The_Journey_Begins.mp3"
+      "file": "jingles/snes/An_American_Tail_Fievel_Goes_West.mp3"
     },
     {
       "game": "Animaniacs",
-      "file": "jingles/snes/Animaniacs_-_Title_Screen.mp3"
+      "file": "jingles/snes/Animaniacs.mp3"
     },
     {
       "game": "Ardy Lightfoot",
-      "file": "jingles/snes/Ardy_Lightfoot_-_Title.mp3"
+      "file": "jingles/snes/Ardy_Lightfoot.mp3"
     },
     {
       "game": "Battletoads & Double Dragon",
-      "file": "jingles/snes/Battletoads_&_Double_Dragon_-_Main_Theme_~_Character_Select.mp3"
+      "file": "jingles/snes/Battletoads_&_Double_Dragon.mp3"
     },
     {
       "game": "Bonkers",
-      "file": "jingles/snes/Bonkers_-_Bonkers.mp3"
+      "file": "jingles/snes/Bonkers.mp3"
     },
     {
       "game": "Boogerman A Pick and Flick Adventure",
-      "file": "jingles/snes/Boogerman_A_Pick_and_Flick_Adventure_-_Title_Screen.mp3"
+      "file": "jingles/snes/SNES_Boogerman_A_Pick_and_Flick_Adventure.mp3"
     },
     {
       "game": "Bubsy II",
-      "file": "jingles/snes/Bubsy_II_-_Title.mp3"
+      "file": "jingles/snes/Bubsy_II.mp3"
     },
     {
       "game": "Bubsy in Claws Encounters of the Furred Kind",
-      "file": "jingles/snes/Bubsy_in_Claws_Encounters_of_the_Furred_Kind_-_War_of_the_Woolies.mp3"
+      "file": "jingles/snes/Bubsy_in_Claws_Encounters_of_the_Furred_Kind.mp3"
     },
     {
       "game": "Bubsy 1",
-      "file": "jingles/snes/Bubsy_in_Claws_Encounters_of_the_Furred_Kind_-_War_of_the_Woolies.mp3"
+      "file": "jingles/snes/Bubsy_in_Claws_Encounters_of_the_Furred_Kind.mp3"
     },
     {
       "game": "Chester Cheetah Too Cool to Fool",
-      "file": "jingles/snes/Chester_Cheetah_Too_Cool_to_Fool_-_Four_Corners_Zoo.mp3"
+      "file": "jingles/snes/Chester_Cheetah_Too_Cool_to_Fool.mp3"
     },
     {
       "game": "Chester Cheetah Wild Wild Quest",
-      "file": "jingles/snes/Chester_Cheetah_Wild_Wild_Quest_-_Title.mp3"
+      "file": "jingles/snes/Chester_Cheetah_Wild_Wild_Quest.mp3"
     },
     {
       "game": "Chrono Trigger",
-      "file": "jingles/snes/Chrono_Trigger_-_Fanfare_1.mp3"
+      "file": "jingles/snes/Chrono_Trigger.mp3"
     },
     {
       "game": "Contra III The Alien Wars",
-      "file": "jingles/snes/Contra_III_The_Alien_Wars_-_It's_Time_For_Revenge.mp3"
+      "file": "jingles/snes/Contra_III_The_Alien_Wars.mp3"
     },
     {
       "game": "Cool Spot",
-      "file": "jingles/snes/Cool_Spot_-_Wipeout.mp3"
+      "file": "jingles/snes/Cool_Spot.mp3"
     },
     {
       "game": "Daffy Duck: The Marvin Missions",
-      "file": "jingles/snes/Daffy_Duck_The_Marvin_Missions_-_The_Merry_Go_Round_Broke_Down.mp3"
+      "file": "jingles/snes/Daffy_Duck_The_Marvin_Missions.mp3"
     },
     {
       "game": "Donkey Kong Country",
-      "file": "jingles/snes/Donkey_Kong_Country_-_Bonus_Room_Blitz.mp3"
+      "file": "jingles/snes/Donkey_Kong_Country.mp3"
     },
     {
       "game": "Donkey Kong Country 2: Diddy's Kong Quest",
-      "file": "jingles/snes/Donkey_Kong_Country_2_Diddy's_Kong_Quest_-_K._Rool_Returns.mp3"
+      "file": "jingles/snes/Donkey_Kong_Country_2_Diddy's_Kong_Quest.mp3"
     },
     {
       "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
-      "file": "jingles/snes/Donkey_Kong_Country_3_Dixie_Kong's_Double_Trouble!_-_Crazy_Calypso.mp3"
+      "file": "jingles/snes/Donkey_Kong_Country_3_Dixie_Kong's_Double_Trouble!.mp3"
     },
     {
       "game": "Doom",
-      "file": "jingles/snes/Doom_-_At_Doom's_Gate.mp3"
+      "file": "jingles/snes/Doom.mp3"
     },
     {
       "game": "EarthBound",
-      "file": "jingles/snes/EarthBound_-_Opening_Credits.mp3"
+      "file": "jingles/snes/EarthBound.mp3"
     },
     {
       "game": "Earthworm Jim",
-      "file": "jingles/snes/Earthworm_Jim_-_Buttville_~_The_Descent.mp3"
+      "file": "jingles/snes/Earthworm_Jim.mp3"
     },
     {
       "game": "Earthworm Jim 2",
-      "file": "jingles/snes/Earthworm_Jim_2_-_Anything_but_Tangerines_.mp3"
+      "file": "jingles/snes/Earthworm_Jim_2.mp3"
     },
     {
       "game": "Final Fantasy - Mystic Quest",
-      "file": "jingles/snes/Final_Fantasy_-_Mystic_Quest_-_Battle_1.mp3"
+      "file": "jingles/snes/Final_Fantasy_-_Mystic_Quest.mp3"
     },
     {
       "game": "Final Fantasy II",
-      "file": "jingles/snes/Final_Fantasy_II_-_The_Prelude.mp3"
+      "file": "jingles/snes/Final_Fantasy_IIe.mp3"
     },
     {
       "game": "Final Fantasy III",
-      "file": "jingles/snes/Final_Fantasy_III_-_The_Prelude.mp3"
-    },
-    {
-      "game": "Final Fantasy - Mystic Quest",
-      "file": "jingles/snes/Final_Fantasy_-_Mystic_Quest_-_Battle_1.mp3"
+      "file": "jingles/snes/Final_Fantasy_III.mp3"
     },
     {
       "game": "Final Fantasy 2",
-      "file": "jingles/snes/Final_Fantasy_II_-_The_Prelude.mp3"
+      "file": "jingles/snes/Final_Fantasy_II.mp3"
     },
     {
       "game": "Final Fantasy 3",
-      "file": "jingles/snes/Final_Fantasy_III_-_The_Prelude.mp3"
+      "file": "jingles/snes/Final_Fantasy_III.mp3"
     },
     {
       "game": "F-Zero",
-      "file": "jingles/snes/F-Zero_-_Opening_Theme.mp3"
+      "file": "jingles/snes/F-Zero.mp3"
     },
     {
       "game": "Joe & Mac",
-      "file": "jingles/snes/Joe_&_Mac_-_Title.mp3"
+      "file": "jingles/snes/Joe_&_Mac.mp3"
     },
     {
       "game": "Joe & Mac 2 - Lost in the Tropics",
-      "file": "jingles/snes/Joe_&_Mac_2_-_Lost_in_the_Tropics_-_Joe_and_Mac_are_Back.mp3"
+      "file": "jingles/snes/Joe_&_Mac_2_-_Lost_in_the_Tropics.mp3"
     },
     {
       "game": "Kirby Super Star",
@@ -379,227 +375,227 @@
     },
     {
       "game": "Kirby Super Star",
-      "file": "jingles/snes/Kirby_Super_Star_-_Kirby_Super_Star.mp3"
+      "file": "jingles/snes/Kirby_Super_Star.mp3"
     },
     {
       "game": "Kirby's Avalanche",
-      "file": "jingles/snes/Kirby's_Avalanche_-_Title.mp3"
+      "file": "jingles/snes/Kirby's_Avalanche.mp3"
     },
     {
       "game": "Kirby's Dream Course",
-      "file": "jingles/snes/Kirby's_Dream_Course_-_Kirby's_Dream_Course.mp3"
+      "file": "jingles/snes/Kirby's_Dream_Course.mp3"
     },
     {
       "game": "Kirby's Dream Land 3",
-      "file": "jingles/snes/Kirby's_Dream_Land_3_-_Title_Screen.mp3"
+      "file": "jingles/snes/Kirby's_Dream_Land_3.mp3"
     },
     {
       "game": "Legend of Zelda, The - A Link to the Past",
-      "file": "jingles/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past_-_Hyrule_Field_Main_Theme.mp3"
+      "file": "jingles/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past.mp3"
     },
     {
       "game": "Lion King, The",
-      "file": "jingles/snes/Lion_King,_The_-_Can't_Wait_to_be_King!.mp3"
+      "file": "jingles/snes/Lion_King,_The.mp3"
     },
     {
       "game": "Looney Tunes B-Ball",
-      "file": "jingles/snes/Looney_Tunes_B-Ball_-_Main_Theme.mp3"
+      "file": "jingles/snes/Looney_Tunes_B-Ball.mp3"
     },
     {
       "game": "Lufia & The Fortress of Doom",
-      "file": "jingles/snes/Lufia_&_The_Fortress_of_Doom_-_The_Battle_of_the_Island_in_the_Void.mp3"
+      "file": "jingles/snes/Lufia_&_The_Fortress_of_Doom.mp3"
     },
     {
       "game": "Lufia II - Rise of the Sinistrals",
-      "file": "jingles/snes/Lufia_II_-_Rise_of_the_Sinistrals_-_Time_of_Judgement.mp3"
+      "file": "jingles/snes/Lufia_II_-_Rise_of_the_Sinistrals.mp3"
     },
     {
       "game": "Magical Quest, The - Starring Mickey Mouse",
-      "file": "jingles/snes/Magical_Quest,_The_-_Starring_Mickey_Mouse_-_Treetops.mp3"
+      "file": "jingles/snes/Magical_Quest,_The_-_Starring_Mickey_Mouse.mp3"
     },
     {
       "game": "Mega Man 7",
-      "file": "jingles/snes/Mega_Man_7_-_Title_Screen.mp3"
+      "file": "jingles/snes/Mega_Man_7.mp3"
     },
     {
       "game": "Mega Man X",
-      "file": "jingles/snes/Mega_Man_X_-_Spark_Mandrill.mp3"
+      "file": "jingles/snes/Mega_Man_X.mp3"
     },
     {
       "game": "Mega Man X2",
-      "file": "jingles/snes/Mega_Man_X2_-_Title_Screen.mp3"
+      "file": "jingles/snes/Mega_Man_X2.mp3"
     },
     {
       "game": "Mega Man X3",
-      "file": "jingles/snes/Mega_Man_X3_-_Zero.mp3"
+      "file": "jingles/snes/Mega_Man_X3.mp3"
     },
     {
       "game": "Mega Man VII",
-      "file": "jingles/snes/Mega_Man_7_-_Title_Screen.mp3"
+      "file": "jingles/snes/Mega_Man_7.mp3"
     },
     {
       "game": "Mickey Mania - The Timeless Adventures of Mickey Mouse",
-      "file": "jingles/snes/Mickey_Mania_-_The_Timeless_Adventures_of_Mickey_Mouse_-_Steamboat_Willie.mp3"
+      "file": "jingles/snes/Mickey_Mania_-_The_Timeless_Adventures_of_Mickey_Mouse.mp3"
     },
     {
       "game": "Mr. Nutz",
-      "file": "jingles/snes/Mr._Nutz_-_Mr._Nutz_Title.mp3"
+      "file": "jingles/snes/Mr._Nutz.mp3"
     },
     {
       "game": "Pink Goes to Hollywood",
-      "file": "jingles/snes/Pink_Goes_to_Hollywood_-_Main_Theme.mp3"
+      "file": "jingles/snes/Pink_Goes_to_Hollywood.mp3"
     },
     {
       "game": "Porky Pig's Haunted Holiday",
-      "file": "jingles/snes/Porky_Pig's_Haunted_Holiday_-_Looney_Theme.mp3"
+      "file": "jingles/snes/Porky_Pig's_Haunted_Holiday.mp3"
     },
     {
       "game": "Road Runner's Death Valley Rally",
-      "file": "jingles/snes/Road_Runner's_Death_Valley_Rally_-_Merrie_Melodies_Theme.mp3"
+      "file": "jingles/snes/Road_Runner's_Death_Valley_Rally.mp3"
     },
     {
       "game": "Secret of Evermore",
-      "file": "jingles/snes/Secret_of_Evermore_-_Main_Title.mp3"
+      "file": "jingles/snes/Secret_of_Evermore.mp3"
     },
     {
       "game": "Secret of Mana",
-      "file": "jingles/snes/Secret_of_Mana_-_Fear_of_the_Heavens.mp3"
+      "file": "jingles/snes/Secret_of_Mana.mp3"
     },
     {
       "game": "Shaq Fu",
-      "file": "jingles/snes/Shaq_Fu_-_Shaq_Fu_Theme.mp3"
+      "file": "jingles/snes/SNES_Shaq_Fu.mp3"
     },
     {
       "game": "Spanky's Quest",
-      "file": "jingles/snes/Spanky's_Quest_-_Opening.mp3"
+      "file": "jingles/snes/Spanky's_Quest.mp3"
     },
     {
       "game": "Speedy Gonzalez in Los Gatos Banditos",
-      "file": "jingles/snes/Speedy_Gonzalez_in_Los_Gatos_Banditos_-_Map.mp3"
+      "file": "jingles/snes/Speedy_Gonzalez_in_Los_Gatos_Banditos.mp3"
     },
     {
       "game": "Star Fox",
-      "file": "jingles/snes/Star_Fox_-_Corneria.mp3"
+      "file": "jingles/snes/Star_Fox.mp3"
     },
     {
       "game": "Star Ocean",
-      "file": "jingles/snes/Star_Ocean_-_Departures.mp3"
+      "file": "jingles/snes/Star_Ocean.mp3"
     },
     {
       "game": "Super Adventure Island",
-      "file": "jingles/snes/Super_Adventure_Island_-_Follow_Wind.mp3"
+      "file": "jingles/snes/Super_Adventure_Island.mp3"
     },
     {
       "game": "Super Adventure Island II",
-      "file": "jingles/snes/Super_Adventure_Island_II_-_File_Select.mp3"
+      "file": "jingles/snes/Super_Adventure_Island_II.mp3"
     },
     {
       "game": "Super Adventure Island 2",
-      "file": "jingles/snes/Super_Adventure_Island_II_-_File_Select.mp3"
+      "file": "jingles/snes/Super_Adventure_Island_II.mp3"
     },
     {
       "game": "Super Alfred Chicken",
-      "file": "jingles/snes/Super_Alfred_Chicken_-_Title_Screen.mp3"
+      "file": "jingles/snes/Super_Alfred_Chicken.mp3"
     },
     {
       "game": "Super Bomberman",
-      "file": "jingles/snes/Super_Bomberman_-_Title.mp3"
+      "file": "jingles/snes/Super_Bomberman.mp3"
     },
     {
       "game": "Super Bomberman 2",
-      "file": "jingles/snes/Super_Bomberman_2_-_Map.mp3"
+      "file": "jingles/snes/Super_Bomberman_2mp3"
     },
     {
       "game": "Super Buster Bros.",
-      "file": "jingles/snes/Super_Buster_Bros._-_Select_Game.mp3"
+      "file": "jingles/snes/Super_Buster_Bros..mp3"
     },
     {
       "game": "Super Castlevania IV",
-      "file": "jingles/snes/Super_Castlevania_IV_-_Theme_of_Simon.mp3"
+      "file": "jingles/snes/Super_Castlevania_IV.mp3"
     },
     {
       "game": "Super Mario All-Stars",
-      "file": "jingles/snes/Super_Mario_All-Stars_-_Title.mp3"
+      "file": "jingles/snes/Super_Mario_All-Stars.mp3"
     },
     {
       "game": "Super Mario Kart",
-      "file": "jingles/snes/Super_Mario_Kart_-_Main_Theme.mp3"
+      "file": "jingles/snes/Super_Mario_Kart.mp3"
     },
     {
       "game": "Super Mario RPG - The Legend of the Seven Stars",
-      "file": "jingles/snes/Super_Mario_RPG_-_The_Legend_of_the_Seven_Stars_-_Let's_Go_Down_the_Wine_River.mp3"
+      "file": "jingles/snes/Super_Mario_RPG_-_The_Legend_of_the_Seven_Stars.mp3"
     },
     {
       "game": "Super Mario World 2 - Yoshi's Island",
-      "file": "jingles/snes/Super_Mario_World_2_-_Yoshi's_Island_-_Map_(part_1).mp3"
+      "file": "jingles/snes/Super_Mario_World_2_-_Yoshi's_Island.mp3"
     },
     {
       "game": "Super Metroid",
-      "file": "jingles/snes/Super_Metroid_-_Theme_of_Super_Metroid.mp3"
+      "file": "jingles/snes/Super_Metroid.mp3"
     },
     {
       "game": "Super Punch-Out!!",
-      "file": "jingles/snes/Super_Punch-Out!!_-_Menu.mp3"
+      "file": "jingles/snes/Super_Punch-Out!!.mp3"
     },
     {
       "game": "Super R-Type",
-      "file": "jingles/snes/Super_R-Type_-_R-Type_Medley.mp3"
+      "file": "jingles/snes/Super_R-Type.mp3"
     },
     {
       "game": "Super Star Wars",
-      "file": "jingles/snes/Super_Star_Wars_-_Star_Wars_Main_Theme.mp3"
+      "file": "jingles/snes/Super_Star_Wars.mp3"
     },
     {
       "game": "Super Star Wars 2 - The Empire Strikes Back",
-      "file": "jingles/snes/Super_Star_Wars_2_-_The_Empire_Strikes_Back_-_The_Empire_Strikes_Back.mp3"
+      "file": "jingles/snes/Super_Star_Wars_2_-_The_Empire_Strikes_Back.mp3"
     },
     {
       "game": "Super Star Wars 3 - Return of the Jedi",
-      "file": "jingles/snes/Super_Star_Wars_3_-_Return_of_the_Jedi_-_Return_of_the_Jedi.mp3"
+      "file": "jingles/snes/Super_Star_Wars_3_-_Return_of_the_Jedi.mp3"
     },
     {
       "game": "SWAT Kats",
-      "file": "jingles/snes/SWAT_Kats_-_The_Radical_Squadron_-_Main_Theme.mp3"
+      "file": "jingles/snes/SWAT_Kats_-_The_Radical_Squadron.mp3"
     },
     {
       "game": "Tales of Phantasia",
-      "file": "jingles/snes/Tales_of_Phantasia_-_Defiance.mp3"
+      "file": "jingles/snes/Tales_of_Phantasia.mp3"
     },
     {
       "game": "Taz-Mania",
-      "file": "jingles/snes/Taz-Mania_-_Begin_the_Chase!.mp3"
+      "file": "jingles/snes/Taz-Mania.mp3"
     },
     {
       "game": "Tecmo Secret of the Stars",
-      "file": "jingles/snes/Tecmo_Secret_of_the_Stars_-_Overworld_(Aqutallion).mp3"
+      "file": "jingles/snes/Tecmo_Secret_of_the_Stars.mp3"
     },
     {
       "game": "Teenage Mutant Ninja Turtles 4 - Turtles in Time",
-      "file": "jingles/snes/Teenage_Mutant_Ninja_Turtles_4_-_Turtles_in_Time_-_Turtle_Power.mp3"
+      "file": "jingles/snes/Teenage_Mutant_Ninja_Turtles_4_-_Turtles_in_Time.mp3"
     },
     {
       "game": "Tetris & Dr. Mario",
-      "file": "jingles/snes/Tetris_&_Dr._Mario_-_Main_Title.mp3"
+      "file": "jingles/snes/Tetris_&_Dr._Mario.mp3"
     },
     {
       "game": "Tiny Toon Adventures - Buster Busts Loose!",
-      "file": "jingles/snes/Tiny_Toon_Adventures_-_Buster_Busts_Loose!_-_Theme_of_Tiny_Toon_Adventures.mp3"
+      "file": "jingles/snes/Tiny_Toon_Adventures_-_Buster_Busts_Loose!.mp3"
     },
     {
       "game": "Uniracers",
-      "file": "jingles/snes/Uniracers_-_Title_Screen.mp3"
+      "file": "jingles/snes/Uniracers.mp3"
     },
     {
       "game": "Yoshi's Cookie",
-      "file": "jingles/snes/Yoshi's_Cookie_-_Yoshi's_Cookie.mp3"
+      "file": "jingles/snes/SNES_Yoshi's_Cookie.mp3"
     },
     {
       "game": "Zombies Ate My Neighbors",
-      "file": "jingles/snes/Zombies_Ate_My_Neighbors_-_Zombie_Panic.mp3"
+      "file": "jingles/snes/Zombies_Ate_My_Neighbors.mp3"
     },
     {
       "game": "Zoop",
-      "file": "jingles/snes/Zoop_-_Main_Theme.mp3"
+      "file": "jingles/snes/Zoop.mp3"
     }
   ]
 }
