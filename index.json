@@ -526,12 +526,8 @@
       "file": "jingles/snes/Super_Mario_RPG_-_The_Legend_of_the_Seven_Stars_-_Let's_Go_Down_the_Wine_River.mp3"
     },
     {
-      "game": "",
-      "file": "jingles/snes/Super_Mario_World_2_-_Yoshi's_Island_-_Map_(part_1).mp3"
-    },
-    {
       "game": "Super Mario World 2 - Yoshi's Island",
-      "file": "jingles/snes/.mp3"
+      "file": "jingles/snes/Super_Mario_World_2_-_Yoshi's_Island_-_Map_(part_1).mp3"
     },
     {
       "game": "Super Metroid",
