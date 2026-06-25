@@ -13,5 +13,13 @@
       "game": "Battletoads",
       "file": "jingles/NES/Battletoads_-_Title.mp3"
     }
+    {
+      "game": "Bionic Commando",
+      "file": "jingles/NES/Bionic_Commando_-_Introduction_Part_A.mp3"
+    }
+    {
+      "game": "Bomberman",
+      "file": "jingles/NES/Bomberman_-_Main_BGM.mp3"
+    }
   ]
 }
