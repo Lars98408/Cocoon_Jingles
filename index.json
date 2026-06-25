@@ -1,13 +1,13 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "NES",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Air Fortress",
+      "file": "jingles/NES/Air Fortress - Title Screen.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Alfred Chicken",
+      "file": "jingles/NES/Alfred Chicken - Title Screen.mp3"
     }
   ]
 }
