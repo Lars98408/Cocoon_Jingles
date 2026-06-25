@@ -20,6 +20,66 @@
     {
       "game": "Bomberman",
       "file": "jingles/NES/Bomberman_-_Main_BGM.mp3"
+    },
+    {
+      "game": "Bonk's Adventure",
+      "file": "jingles/NES/Bonk's_Adventure_-_02.mp3"
+    },
+    {
+      "game": "Boulder_Dash",
+      "file": "jingles/NES/Boulder_Dash_-_Title_Screen.mp3"
+    },
+    {
+      "game": "Bubble Bobble",
+      "file": "jingles/NES/Bubble_Bobble_-_Introduction_~_Main_Theme.mp3"
+    },
+    {
+      "game": "Bubble Bobble Part 2",
+      "file": "jingles/NES/Bubble_Bobble_Part_2_-_Introduction.mp3"
+    },
+    {
+      "game": "Castlevania",
+      "file": "jingles/NES/Castlevania_-_Vampire_Killer_(Courtyard).mp3"
+    },
+    {
+      "game": "Castlevania II Simon's Quest",
+      "file": "jingles/NES/Castlevania_II_Simon's_Quest_-_Bloody_Tears.mp3"
+    },
+    {
+      "game": "Castlevania III Dracula's Curse",
+      "file": "jingles/NES/Castlevania_III_Dracula's_Curse_-_Beginning.mp3"
+    },
+    {
+      "game": "Chip 'n Dale Rescue Rangers",
+      "file": "jingles/NES/Chip_'n_Dale_Rescue_Rangers_-_Rescue_Rangers_Theme_(Title).mp3"
+    },
+    {
+      "game": "Chip 'n Dale Rescue Rangers 2",
+      "file": "jingles/NES/Chip_'n_Dale_Rescue_Rangers_2_-_Title.mp3"
+    },
+    {
+      "game": "City Connection",
+      "file": "jingles/NES/City_Connection_-_Main_BGM_1.mp3"
+    },
+    {
+      "game": "Contra",
+      "file": "jingles/NES/Contra_-_Jungle_Battle_(Stage_1_&_Stage_7).mp3"
+    },
+    {
+      "game": "Darkwing Duck",
+      "file": "jingles/NES/Darkwing_Duck_-_Darkwing_Duck_Theme.mp3"
+    },
+    {
+      "game": "Donkey Kong",
+      "file": "jingles/NES/Donkey_Kong_-_Title_BGM.mp3"
+    },
+    {
+      "game": "Donkey Kong Jr.",
+      "file": "jingles/NES/Donkey_Kong_Jr._-_Title_BGM.mp3"
+    },
+    {
+      "game": "Dr. Mario",
+      "file": "jingles/NES/Dr._Mario_-_Fever.mp3"
     }
   ]
 }
